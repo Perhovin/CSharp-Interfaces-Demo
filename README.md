@@ -15,8 +15,3 @@ C# OOP tutorial demonstrating interfaces, polymorphism, interface inheritance, a
   - `Mage`: Implements `ICombatant` and `IHealer`.
   - `Knight`: Explicitly implements `IAttack` and `IDefend`.
 - `Program.cs`: Demonstrates polymorphism, type casting (`as`), and explicit interface calls.
-
-## Run
-```bash
-dotnet run
-```
